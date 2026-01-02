@@ -1,6 +1,14 @@
-# 💫 About Me:
+# 💫 Hi-! I'm Friena Sellisya Saputri
 🚀 About Me<br>- 🎓 Studying at Universitas AKPRIND Indonesia<br>- 💻 Enthusiast in **UI/UX Design** & **Frontend Development**<br>- 🌱 I’m currently learning deeper into JavaScript frameworks and Design Systems<br>- 🎯 My goal is to become a skilled IT professional
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bublebible/bublebible/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bublebible/bublebible/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bublebible/bublebible/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/friena.sllsysptr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bubblebieskiss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:selusyasaputrifriena@gmail.com) 
